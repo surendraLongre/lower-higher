@@ -1,6 +1,3 @@
-Search & run commands
-Ctrl
-.
 logo = """
     __  ___       __             
    / / / (_)___ _/ /_  ___  _____
